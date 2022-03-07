@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tinotenda-alfaneti
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on anything that can make the world a better place.
+- 👀 A Software Developer Enthusiast
+- 🌱 I’m currently learning Computer Science and interested in Agritech(Software related)
+- 💞️ I’m looking to collaborate on anything that can make the world a better place and improve lives.
 
 
 <!---
