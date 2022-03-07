@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tinotenda-alfaneti
-- 👀 A Software Developer Enthusiast
+- 👀 Aspiring Software Developer
 - 🌱 I’m currently learning Computer Science and interested in Agritech(Software related)
 - 💞️ I’m looking to collaborate on anything that can make the world a better place and improve lives.
 
