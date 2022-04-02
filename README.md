@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tinotenda-alfaneti
-- 👀 Aspiring Software Developer
+- 👀 Software Developer
 - 🌱 Pursuing a Computer Science degree at Ashesi University
-- 💞️ I'm interested in Agritech and Algorithmic trading
+- 💞️ I'm interested in problem solving using modern technologies.
 
 
 <!---
