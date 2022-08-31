@@ -12,5 +12,7 @@ I'm Tinotenda Rodney Alfaneti 😉, Aspiring Software Developer 👨🏻‍💻 
 ### Current Status : 📡
 
 - 💼 Pursuing a <strong>BSc Computer Science degree</strong> at Ashesi University.
-- 🌱 Learning <strong>Machine Learning</strong> and <strong>Data Science</strong>
+- 💼 Pursuing a <strong>Software Engineering certificate</strong> with ALX
+- 🌱 Learning <strong>Machine Learning</strong> and <strong>Data Science</strong> (Dphi certified Data Scientist)
+- 🌱 Microsoft ADC <strong>AIforHealth Hackathon</strong> participant
 - 🔍 Looking for career opportunities in the <strong>Software Engineering</strong> or <strong>Data Science</strong> industry
