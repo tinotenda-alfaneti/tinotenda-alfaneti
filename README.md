@@ -1,4 +1,4 @@
-<h1><span> Hi, PLEASURE TO HAVE YOU HERE. </span> </h1>
+<h1><span> ...WELCOME... </span> </h1>
 
 I'm Tinotenda Rodney Alfaneti, A Software Engineer/Developer 👨🏻‍💻 from Ghana/Zimbabwe. Confident Programming in Java, Python, and SQL.
 
