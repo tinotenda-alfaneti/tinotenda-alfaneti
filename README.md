@@ -2,7 +2,7 @@
 
 I'm Tinotenda Rodney Alfaneti, A Software Engineer/Developer 👨🏻‍💻 from Ghana/Zimbabwe. Confident Programming in Java, Python, and SQL.
 
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Developer;Software+Engineer;Machine+Learning+Ethusiaste;Data+Science+Ethusiaste+with+2%2B+Years+Experience height="40"/>
+<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Developer;Software+Engineer;Machine+Learning+Ethusiaste;Data+Science+Ethusiaste+with+2%2B+Years+Experience" height="40"/>
 
 <div>
 <a href="mailto: tinotendaalfaneti18@gmail.com">
