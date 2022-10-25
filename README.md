@@ -1,6 +1,7 @@
 <h1><span> ...WELCOME... </span> </h1>
 
-I'm Tinotenda Rodney Alfaneti, A Software Engineer/Developer 👨🏻‍💻 from Ghana/Zimbabwe. Confident Programming in Java, Python, and SQL.
+Hi! Thank you for visiting Tinotenda Rodney Alfaneti's favourite space.
+A brief introduction, Tinotenda Rodney Alfaneti is a Software Engineer from Zimbabwe, currently studying Computer Science at Ashesi University in Ghana. He is proficient in Java, Python, SQL, and C/C++.
 
 <img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Software+Developer;Software+Engineer;Machine+Learning+Ethusiaste;Data+Science+Ethusiaste;with+2%2B+Years+Experience" height="40"/>
 
@@ -10,8 +11,9 @@ I'm Tinotenda Rodney Alfaneti, A Software Engineer/Developer 👨🏻‍💻 fro
 </div>
 
 ### Current: 
-
-- Pursuing a <strong>BSc Computer Science degree</strong> at Ashesi University and a <strong>Software Engineering certificate</strong> with ALX
-- Learning <strong>Machine Learning</strong> and <strong>Data Science</strong> (Dphi certified Data Scientist)
+- ALX Software Engineering Apprentice
+- <strong>Machine Learning</strong> and <strong>Data Science</strong> enthusiaste (Dphi certified Data Scientist)
 - Microsoft ADC <strong>AIforHealth Hackathon</strong> participant
-- Looking for career opportunities in the <strong>Software Engineering</strong> or <strong>Data Science</strong> industry
+
+
+Ready to collaborate on any project that can make the world a better place.
