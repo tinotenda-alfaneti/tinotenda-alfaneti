@@ -12,7 +12,7 @@
 <h4 align="center"> A grounded and solution-oriented Aspiring Software Engineer with a diverse work background. I have broad technical talents and an in-depth understanding of programming software and applications. Adept at motivating self and others. A committed, detail-oriented, innovative problem-solver capable of exceeding expectations and meeting company objectives. Passionate about data science and machine learning, software development, and implementation of AI in Health sector.</h4>
 
 <h2 align="center">SKILLS</h2>
-<img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Shell+Scripting;Machine+Learning;+C+Programming;Data+Science;SQL+Programming;Java+Programming" height="40"/>
+<h4 align="center"><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Shell+Scripting;Machine+Learning;+C+Programming;Data+Science;SQL+Programming;Java+Programming" height="40"/></h4>
 
 
 
