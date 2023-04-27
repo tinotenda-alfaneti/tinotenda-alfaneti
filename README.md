@@ -20,9 +20,20 @@
 <!--## GITHUB STREAK
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tinotenda-alfaneti&theme=radical)](https://www.github.com/tinotenda-alfaneti)-->
 ## MOST USED LANGUAGES ##
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinotenda-alfaneti&theme=dark&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tinotenda-alfaneti&layout=compact&theme=radical&hide_border=true&count_private=true&langs_count=20)
+
 <!-- ## GITHUB STATISTICS ##
 ![Phancddev's GitHub stats](https://github-readme-stats.vercel.app/api?username=tinotenda-alfaneti&theme=radical) -->
+
+## TOOLS AND FRAMEWORKS
+
+<img src="https://skillicons.dev/icons?i=flutter"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=git"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=googlecloud"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=spring"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vim"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
 
 
