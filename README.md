@@ -9,10 +9,10 @@
 <br><br>
 </p>
 <h2 align="">ABOUT ME</h2>
-<h4 align=""> A grounded and solution-oriented Aspiring Software Engineer with a diverse work background. I have broad technical talents and an in-depth understanding of programming software and applications. Adept at motivating self and others. A committed, detail-oriented, innovative problem-solver capable of exceeding expectations and meeting company objectives. Passionate about data science and machine learning, software development, and implementation of AI in Health and Financial sector.</h4>
+<h4 align=""> A grounded and solution-oriented Aspiring Software Engineer with a diverse work background. I have broad technical talents and an in-depth understanding of programming software and applications. Adept at motivating self and others. A committed, detail-oriented, innovative problem-solver capable of exceeding expectations and meeting company objectives. Passionate about software development, modern technologies and problem-solving.</h4>
 
 <h2 align="">SKILLS</h2>
-<h2 align=""><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Shell+Scripting;Machine+Learning;+C+Programming;Data+Science;SQL+Programming;Java+Programming" height="40"/></h2>
+<h2 align=""><img src="https://readme-typing-svg.herokuapp.com?vCenter=true&width=500&lines=Shell+Scripting;Machine+Learning;Flutter+Development;Fullstack+Web+Development;Cross+Platform+Apps+Development" height="40"/></h2>
 
 <!--
 
