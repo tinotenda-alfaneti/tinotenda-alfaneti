@@ -14,16 +14,6 @@
 
 <hr>
 
-<!--
-
-![](https://komarev.com/ghpvc/?username=tinotenda-alfaneti) -->
-<!--## GITHUB STREAK
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tinotenda-alfaneti&theme=radical)](https://www.github.com/tinotenda-alfaneti)-->
-  <h4 align="center">MOST USED LANGUAGES</h4>
-  <h1 align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinotenda-alfaneti&layout=compact&hide_border=true&count_private=true&langs_count=20" width="400"/> </h1>
-  
-  <hr>
-
 <!--  ## GITHUB STATISTICS ## -->
 
 <h4 align="center">TOOLS AND FRAMEWORKS</h4>
