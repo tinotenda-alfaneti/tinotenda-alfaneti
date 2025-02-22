@@ -6,7 +6,7 @@
   <a href="https://stackoverflow.com/users/18042638"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
   <a href="https://twitter.com/rodney_alfaneti"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="X"></a>
   <a href="https://huggingface.co/muAtarist"><img src="https://img.shields.io/badge/HuggingFace-%23FFDD55.svg?&style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
-  <a href="https://www.codewars.com/users/b_atah"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"></a>
+  <a href="https://www.codewars.com/users/th3atarist"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"></a>
   <a href="https://www.kaggle.com/rodneyatarist"><img src="https://img.shields.io/badge/Kaggle-%23056DAE.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
 
 <br>
