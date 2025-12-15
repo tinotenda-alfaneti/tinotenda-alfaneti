@@ -1,19 +1,27 @@
+<div align="center">
 
-<br><h2 align="center"><a href="https://github.com/tinotenda-alfaneti">Tinotenda Rodney Alfaneti</a> </h2>
-<p align="center">
-  <a href="https://www.linkedin.com/in/tinotenda-rodney-alfaneti/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>  
-  <a href="mailto:tinotendaalfaneti18@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Gmail"></a>
-  <a href="https://stackoverflow.com/users/18042638"><img src="https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow"></a>
-  <a href="https://twitter.com/rodney_alfaneti"><img src="https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=Twitter&logoColor=white" alt="X"></a>
-  <a href="https://huggingface.co/muAtarist"><img src="https://img.shields.io/badge/HuggingFace-%23FFDD55.svg?&style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"></a>
-  <a href="https://www.codewars.com/users/th3atarist"><img src="https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white" alt="Codewars"></a>
-  <a href="https://www.kaggle.com/rodneyatarist"><img src="https://img.shields.io/badge/Kaggle-%23056DAE.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"></a>
+# Tinotenda Rodney Alfaneti
 
-<br>
-<br>
-</p>
-<hr>
+### Software Engineer | Cloud Enthusiast | Homelab Architect
 
-<p align="center">Currently working on <a href="https://www.atarnet.org">homelab</a></p>
+Currently working on my [homelab](https://www.atarnet.org) - exploring DevOps, Kubernetes, and self-hosted applications
 
-  
+---
+
+[![GitHub Streak](https://github-readme-streak-stats-dun-phi.vercel.app?user=tinotenda-alfaneti&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+---
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tinotenda-rodney-alfaneti/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tinotendaalfaneti18@gmail.com)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/18042638)
+[![X (Twitter)](https://img.shields.io/badge/X-%23000000.svg?&style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/rodney_alfaneti)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-%23FF9D00.svg?&style=for-the-badge&logo=huggingface&logoColor=white)](https://huggingface.co/muAtarist)
+[![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=white)](https://www.codewars.com/users/th3atarist)
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/rodneyatarist)
+
+---
+
+*"People live their lives bound by what they accept as correct and true. That is how they define 'Reality'. But what does it mean to be 'correct' or 'true'? They are merely vague concepts... Their 'Reality' may all be a mirage. Can we consider them to be simply living in their own world, shaped by their beliefs?" - Itachi Uchiha*
+
+</div>
