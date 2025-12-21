@@ -4,7 +4,7 @@
 
 ### Software Engineer | Cloud Enthusiast | Homelab Architect
 
-Currently working on my [homelab](https://www.atarnet.org) - exploring DevOps, Kubernetes, and self-hosted applications
+Currently working on my [homelab](https://www.atarnet.org) and [AvidLearner](https://github.com/tinotenda-alfaneti/avidlearner) webapp - exploring DevOps, Kubernetes, self-hosted applications, and interactive learning platforms
 
 ---
 
